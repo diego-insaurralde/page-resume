@@ -1,0 +1,29 @@
+header{
+    background-color:darkcyan;
+    padding: 30px;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    font-weight: bold;
+
+}
+
+section {
+    text-align: center;
+}
+.nome:hover{
+    color: aqua;
+    font-style: normal;
+    text-decoration: none;
+}
+
+.nome{
+    color: white;
+    font-style: normal;
+}
+
+.sizes{
+    height: 60px;
+    width: 70px;
+}
+
